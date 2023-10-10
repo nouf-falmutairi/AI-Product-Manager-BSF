@@ -8,7 +8,7 @@
 This repository contains projects i did for the AI Product Manager Nanodegree program from Udacity in collaberation with Banque Saudi Fransi.
 
 ## Project 1 :
-[Check My Project Submission Through This Link]
+[Check My Project Submission Through This Link](https://github.com/nouf-falmutairi/AI-Product-Manager-BSF/tree/master/Project%201%20-%20Data%20Annotation)
 
 ### Overview:
 Your goal, as a product owner is to build a product that helps doctors quickly identify cases of pneumonia in children. You'll want to build a classification system that
@@ -19,7 +19,7 @@ Your goal, as a product owner is to build a product that helps doctors quickly i
 As such, this project is designed to test your ability to build a labeled dataset that distinguishes between healthy and pneumonia x-ray images; this can be used by ML engineers later on down the line to build a classification product. Your main task will be to create a data labeling job using Appen's platform.
 
 ## Project 2 :
-[Check My Project Submission Through This Link]
+[Check My Project Submission Through This Link](https://github.com/nouf-falmutairi/AI-Product-Manager-BSF/tree/master/Project%202%20-%20AWS%20Rekognition%20Model)
 
 ### Overview:
 
@@ -32,7 +32,7 @@ For the accomplishment of the project, you'll build four models using AWS Rekogn
 
 
 ## Project 3 :
-[Check My Project Submission Through This Link]
+[Check My Project Submission Through This Link](https://github.com/nouf-falmutairi/AI-Product-Manager-BSF/tree/master/Project%203%20-%20AI%20Product%20Business%20Proposal)
 ### Overview:
 In this project, you'll develop a business proposal for an AI product. There are several important aspects of product development you'll need to think about and describe, and they are exactly the topics we've covered in this course. Here, we'll walk through what should be included in the proposal. You'll also find instructions in the Capsone Project Starter File, linked at the bottom of the page. You need to answer the questions in this file to complete the project.
 
